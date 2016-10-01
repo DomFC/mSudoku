@@ -1,0 +1,14 @@
+Une application de Sudoku minimaliste développé par et pour moi.
+
+J'ai dévellopé cette application dans mon temps libre pour apprendre à développer avec Android, pour apprendre à créer
+des algorithmes de Sudoku et pour les joies du codage!
+
+Il reste des bugs mineurs et des problèmes d'interfaces, mais rien qui empêcherait l'application de fonctionner. 
+Je vais probablement continuer de mettre à jour mon code pendant un certain temps, mais aucune nouvelle fonctionnalité
+ne sera ajouté dans un futur proche.
+
+Vous pouvez prendre des parties de mon code pour vos projets tant que vous le voulez, je vous demanderais cependant de
+me citer si vous le faîte, ce serait apprécié.
+
+Cette application est disponible sur Google Play :
+https://play.google.com/store/apps/details?id=com.apps.dom.msudoku
