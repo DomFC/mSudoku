@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mSudoku</string>
+    <string name="new_sudoku">New Game</string>
+    <color name="orange">#ffff7800</color>
+    <color name="grey">#ff999999</color>
+    <color name="dark_grey">#ff444444</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff0000ff</color>
+    <color name="pale_blue">#ffc0f7ff</color>
+    <color name="transparent">#00000000</color>
+    <string name="ok">OK</string>
+
+</resources>
